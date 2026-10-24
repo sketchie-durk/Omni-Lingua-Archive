@@ -8,7 +8,7 @@ A project dedicated to preserving a single, fundamental truth across every conce
 ---
 
 ## 💻 Programming Implementations
-Instead of mere translations, the truth is implemented as executable logic in the following paradigms:
+The truth is implemented as executable logic across paradigms:
 
 | Language | File | Paradigm |
 | :--- | :--- | :--- |
@@ -22,6 +22,26 @@ Instead of mere translations, the truth is implemented as executable logic in th
 | **Bash** | [`src/bash/truth.sh`](src/bash/truth.sh) | Scripting / Shell |
 | **Brainfuck** | [`src/brainfuck/truth.bf`](src/brainfuck/truth.bf) | Esoteric / Turing-Complete |
 | **JavaScript** | [`src/javascript/truth.js`](src/javascript/truth.js) | Event-Driven / Web |
+
+### 🚀 Advanced Implementations
+Explore the truth through higher-order abstractions:
+- Python: [`src/python/advanced_truth.py`](src/python/advanced_truth.py)
+- Rust: [`src/rust/advanced_truth.rs`](src/rust/advanced_truth.rs)
+- JS: [`src/javascript/advanced_truth.js`](src/javascript/advanced_truth.js)
+
+---
+
+## 📐 Structural Truth (Schemas)
+The truth defined as data structures:
+- **JSON**: [`schemas/truth.json`](schemas/truth.json)
+- **YAML**: [`schemas/truth.yaml`](schemas/truth.yaml)
+- **Protobuf**: [`schemas/truth.proto`](schemas/truth.proto)
+
+---
+
+## 🤖 Automated Verification
+The archive is guarded by a GitHub Action: [`.github/workflows/verify-truth.yml`](.github/workflows/verify-truth.yml). 
+It ensures that the truth is never accidentally deleted from the source code.
 
 ---
 

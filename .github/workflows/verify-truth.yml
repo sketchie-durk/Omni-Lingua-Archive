@@ -1,0 +1,11 @@
+name: Verify the Truth
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check for Truth
+        run: |
+          grep -r "Knowledge is the bridge to the future." src/ || (echo "Truth lost!" && exit 1)
+          echo "The truth remains intact."

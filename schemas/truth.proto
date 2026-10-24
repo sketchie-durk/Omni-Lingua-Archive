@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message UniversalTruth {
+  string statement = 1;
+  bool is_eternal = 2;
+}
