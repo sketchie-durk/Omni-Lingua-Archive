@@ -1,0 +1,2 @@
+P(x) = sum(ascii(char_i) * x^i)
+Where the coefficients of the polynomial are the ASCII values of the phrase "Knowledge is the bridge to the future."

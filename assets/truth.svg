@@ -1,0 +1,6 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="50" font-family="monospace" font-size="20" fill="black">
+    Knowledge is the bridge to the future.
+  </text>
+  <rect x="10" y="60" width="380" height="2" fill="blue" />
+</svg>

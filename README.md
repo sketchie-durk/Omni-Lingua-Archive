@@ -7,8 +7,28 @@ A project dedicated to preserving a single, fundamental truth across every conce
 
 ---
 
+## 🌌 Abstract & Meta-Cognitive Representations
+The truth transcends language and code, existing as a mathematical and spatial constant.
+
+### 📐 Mathematical Logic
+- **Formal Proof (Lean)**: [`src/math/truth.lean`](src/math/truth.lean) - The truth as a theorem.
+- **Polynomial Encoding**: [`src/math/truth_poly.txt`](src/math/truth_poly.txt) - The truth as a mathematical function.
+
+### 🖼️ Visual & Spatial
+- **Vectorized Truth (SVG)**: [`assets/truth.svg`](assets/truth.svg) - The truth as a geometric constant.
+- **ASCII Architecture**: [`assets/truth_ascii.txt`](assets/truth_ascii.txt) - The truth as a spatial pattern.
+
+### 🌀 Meta-Programming
+- **The Truth-Quine**: [`src/meta/truth_quine.py`](src/meta/truth_quine.py) - A program that reproduces itself and the truth simultaneously.
+
+### 🔐 Cryptographic Integrity
+- **Digital Fingerprint**: [`security/fingerprint.txt`](security/fingerprint.txt) - SHA-256 hash for immutable verification.
+- **Classical Cipher**: [`security/cipher.txt`](security/cipher.txt) - The truth hidden in a Caesar cipher.
+
+---
+
 ## 💻 Programming Implementations
-The truth is implemented as executable logic across paradigms:
+The truth implemented as executable logic:
 
 | Language | File | Paradigm |
 | :--- | :--- | :--- |
@@ -23,16 +43,9 @@ The truth is implemented as executable logic across paradigms:
 | **Brainfuck** | [`src/brainfuck/truth.bf`](src/brainfuck/truth.bf) | Esoteric / Turing-Complete |
 | **JavaScript** | [`src/javascript/truth.js`](src/javascript/truth.js) | Event-Driven / Web |
 
-### 🚀 Advanced Implementations
-Explore the truth through higher-order abstractions:
-- Python: [`src/python/advanced_truth.py`](src/python/advanced_truth.py)
-- Rust: [`src/rust/advanced_truth.rs`](src/rust/advanced_truth.rs)
-- JS: [`src/javascript/advanced_truth.js`](src/javascript/advanced_truth.js)
-
 ---
 
 ## 📐 Structural Truth (Schemas)
-The truth defined as data structures:
 - **JSON**: [`schemas/truth.json`](schemas/truth.json)
 - **YAML**: [`schemas/truth.yaml`](schemas/truth.yaml)
 - **Protobuf**: [`schemas/truth.proto`](schemas/truth.proto)
@@ -40,8 +53,7 @@ The truth defined as data structures:
 ---
 
 ## 🤖 Automated Verification
-The archive is guarded by a GitHub Action: [`.github/workflows/verify-truth.yml`](.github/workflows/verify-truth.yml). 
-It ensures that the truth is never accidentally deleted from the source code.
+The archive is guarded by a GitHub Action: [`.github/workflows/verify-truth.yml`](.github/workflows/verify-truth.yml).
 
 ---
 

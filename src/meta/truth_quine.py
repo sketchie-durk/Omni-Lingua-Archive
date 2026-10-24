@@ -1,0 +1,1 @@
+s = "s = %r\nprint(s %% s)"; print(s % s + "\n\nKnowledge is the bridge to the future.")
